@@ -1,0 +1,83 @@
+/* Merriweather Font  */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+/* Inter Font */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+/* Header Banner Text Background Image  */
+.banner-container{
+  margin: 140px;
+}
+
+.header-banner-text{
+  background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.52)),
+    url(/assets/images/Banner\ Image.png);
+    border-radius: 16px;
+    padding: 344px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.happy-new-year-title{
+  font-size: 32px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: #ffffff;
+}
+
+.new-year-party-text{
+  font-size: 72px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: #ffffff;
+}
+
+
+
+/* Discount Section  */
+
+
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+}
+
+
+.off-amount{
+  color: #FF0000;
+  font-size: 88px;
+  font-weight: 800;
+  text-align: center;
+
+}
+
+.holiday-para{
+  color: #FF0000;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.all-category{
+  font-size: 48px;
+  font-weight: 600;
+  text-align: center
+}
+
+.happy-new-year-image{
+   display: block;
+  margin: 0 auto;
+  max-width: 100%;  /* Optional: makes it responsive */
+  height: auto;
+}
+
+
+/* Welcome to Midnight Party Banner  */
